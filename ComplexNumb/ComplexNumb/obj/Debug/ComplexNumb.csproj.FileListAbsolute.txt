@@ -1,0 +1,5 @@
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexNumb\ComplexNumb\bin\Debug\ComplexNumb.dll
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexNumb\ComplexNumb\bin\Debug\ComplexNumb.pdb
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.csprojResolveAssemblyReference.cache
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.dll
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexNumb\ComplexNumb\obj\Debug\ComplexNumb.pdb

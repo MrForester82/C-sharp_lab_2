@@ -1,0 +1,8 @@
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\bin\Debug\ComplexTest.exe.config
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\bin\Debug\ComplexTest.exe
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\bin\Debug\ComplexTest.pdb
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\bin\Debug\ComplexNumb.dll
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\bin\Debug\ComplexNumb.pdb
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\obj\Debug\ComplexTest.csprojResolveAssemblyReference.cache
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\obj\Debug\ComplexTest.exe
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\ComplexTest\ComplexTest\obj\Debug\ComplexTest.pdb
