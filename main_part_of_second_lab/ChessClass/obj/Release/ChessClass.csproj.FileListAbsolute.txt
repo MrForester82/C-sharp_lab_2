@@ -1,0 +1,5 @@
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\main_part_of_second_lab\ChessClass\bin\Release\ChessClass.dll
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\main_part_of_second_lab\ChessClass\bin\Release\ChessClass.pdb
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\main_part_of_second_lab\ChessClass\obj\Release\ChessClass.csprojResolveAssemblyReference.cache
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\main_part_of_second_lab\ChessClass\obj\Release\ChessClass.dll
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_2\main_part_of_second_lab\ChessClass\obj\Release\ChessClass.pdb
